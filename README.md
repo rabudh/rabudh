@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rae
+- 👀 I’m interested in coding, tech, gaming, and everything in between.
+- 🌱 I’m currently doing a bachelor's in Computer Science and a minor in Information Systems
+- ### 🚀 Programming languages and tools I have worked with...
+- Java, C programming, Python, and MIPS
